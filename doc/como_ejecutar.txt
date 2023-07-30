@@ -1,0 +1,4 @@
+ya estándo en la ruta del archivo latex, escribir:
+
+xelatex cv_AlvaroMora.tex
+
